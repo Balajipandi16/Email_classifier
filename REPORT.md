@@ -1,5 +1,9 @@
 # Email Classification System for Support Team - Technical Report
 
+## Deployment
+
+The application is deployed and accessible at: [https://huggingface.co/spaces/pandzz/emailclassifie_api](https://huggingface.co/spaces/pandzz/emailclassifie_api)
+
 ## 1. Introduction to the Problem Statement
 
 This project implements an email classification system for a company's support team. The system categorizes incoming support emails into predefined categories (such as Request, Problem, Incident) while ensuring that personally identifiable information (PII) is masked before processing. After classification, the masked data is restored to its original form.
